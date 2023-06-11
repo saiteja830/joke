@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    background-color: antiquewhite;
+
+}
+button{
+    padding-top: 8px;
+    padding-bottom: 8px;
+    width: 100px;
+    font-size: large;
+    cursor: pointer;
+    background-color:lavender;
+    border-radius: 4px;
+}
+img{
+    padding-top: 70px;
+}
+#joke,#jokecontent{
+    padding: 20px;
+    font-size: 20px;
+}
+#footer{
+    font-size: medium;
+}
